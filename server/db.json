@@ -449,13 +449,6 @@
       "first_name": "Mcbride",
       "last_name": "Woodward",
       "gender": "male"
-    },
-    {
-      "balance": 1234,
-      "first_name": "luis mariano",
-      "isActive": "true",
-      "last_name": "lopez lena",
-      "id": 51
     }
   ]
 }
